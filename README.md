@@ -2,7 +2,7 @@
 
 # Hello, people! :wave:
 
-You can call me Thejesh :grimacing: given the fact of how scary the last name is to pronounce!
+You can call me [Thejesh](https://thejesh1698.github.io/) :grimacing: given the fact of how scary the last name is to pronounce!
 
 I work as a _Software Development Engineer at_ [_Wint Wealth_](https://www.wintwealth.com/), an amazing startup based out of Bangalore. 
 I always have been an inquisitive person where I believe in learning things while experimenting with them. 
