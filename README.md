@@ -1,4 +1,4 @@
-![alt text](https://github.com/Thejesh1698/thejesh1698.github.io/blob/master/src/images/Github%20Markdown%20image.png)
+![alt text](https://media.licdn.com/dms/image/D5616AQGzzbfBPYKVsA/profile-displaybackgroundimage-shrink_350_1400/0/1715187266798?e=1721260800&v=beta&t=CL6UtTiewzD1tD7R62xNgigCXj4SqIpmYfqfaIsrDlc)
 
 # Hello, people! :wave:
 
